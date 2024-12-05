@@ -144,14 +144,6 @@ You can specify additional parameters:
 
 MIT
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a new Pull Request
-
 ## Security Note
 
 If you're planning to share your code or make it public:
