@@ -142,7 +142,7 @@ You can specify additional parameters:
 
 ## License
 
-ISC
+MIT
 
 ## Contributing
 
