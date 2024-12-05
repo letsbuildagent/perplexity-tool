@@ -37,7 +37,7 @@ node --version
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/perplexity-tool
+git clone https://github.com/letsbuildagent/perplexity-tool
 cd perplexity-tool
 ```
 
