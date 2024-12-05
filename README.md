@@ -15,7 +15,7 @@ A custom MCP tool that integrates Perplexity AI's API with Claude Desktop, allow
      brew install git
      ```
    - For Windows:
-     - Download Git from [git-scm.com](https://git-scm.com/download/windows)
+     - Download Git from [git-scm.com](https://git-scm.com/downloads)
      - Run the installer
 
 2. Install Node.js:
